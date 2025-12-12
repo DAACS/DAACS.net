@@ -105,7 +105,7 @@ paginate = 10
     email = "admin@daacs.net"
 
     about_us = "<p>DAACS is an open source suite of technological and social supports to optimize student learning.</p><p>DAACS was developed under grants <a href='https://fipse.ed.gov/grantshow.cfm?grantNumber=P116F150077' target='_new' style='color:#999999;'>#P116F150077</a> and <a href='https://ies.ed.gov/funding/grantsearch/details.asp?ID=4549' target='_new' style='color:#99999;'>#R305A210269</a>from the U.S. Department of Education. However, the contents do not necessarily represent the policy of the U.S. Department of Education, and you should not assume endorsement by the Federal Government.</p>"
-    copyright = "This work is licensed under a <a href='https://creativecommons.org/licenses/by/4.0/' target='_new' style='color:white;'>Creative Commons Attribution 4.0 International License</a>.<br/>The DAACS software is licensed under the <a href='https://opensource.org/licenses/GPL-3.0' target='_new' style='color:white;'>GNU General Public License version 3</a>."
+    copyright = "Copyright 2026 DAACS. All rights reserved.</a>."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
