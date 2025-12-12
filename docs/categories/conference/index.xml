@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference on DAACS</title>
-    <link>https://daacs.net/categories/conference/</link>
+    <link>/categories/conference/</link>
     <description>Recent content in Conference on DAACS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://daacs.net/categories/conference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/conference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DAACS at 2022 AERA</title>
-      <link>https://daacs.net/blog/2022/04/2022-04-25-aera/</link>
+      <link>/blog/2022/04/2022-04-25-aera/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://daacs.net/blog/2022/04/2022-04-25-aera/</guid>
+      <guid>/blog/2022/04/2022-04-25-aera/</guid>
       <description>Efficacy of the Diagnostic Assessment and Achievement of College Skills for Traditional-Age College Students Monday, April 25th, San Diego, CA
 Abstract The purpose of this study was to examine the effects and predictive power of the Diagnostic Assessment and Achievement of College Skills (DAACS) on student success. DAACS is a diagnostic assessment tool designed to measure college students’ reading, writing, mathematics, and self-regulated learning skills and provide them with feedback and resources to enhance their success.</description>
     </item>
     
     <item>
       <title>DAACS at OLC Accelerate</title>
-      <link>https://daacs.net/blog/2019/11/2019-11-20-olc_accelerate/</link>
+      <link>/blog/2019/11/2019-11-20-olc_accelerate/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://daacs.net/blog/2019/11/2019-11-20-olc_accelerate/</guid>
+      <guid>/blog/2019/11/2019-11-20-olc_accelerate/</guid>
       <description>Using Diagnostic Assessment Data to Advance Student Success: Results from the Diagnostic Assessment and Achievement of College Skills (DAACS) Project Wednesday, November 20th, 1:15pm, Orlando, FL
 Abstract The Diagnostic Assessment and Achievement of College Skills (DAACS) is a suite of open source, online assessments and supports (both technological and social) designed to optimize student learning. A study conducted at two online colleges suggest that DAACS is associated with increased student performance and accuracy of predictive student success.</description>
     </item>
     
     <item>
       <title>DAACS at the Maryland Assessment Research Center Conference</title>
-      <link>https://daacs.net/blog/2019/11/2019-11-07-marc_conference/</link>
+      <link>/blog/2019/11/2019-11-07-marc_conference/</link>
       <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://daacs.net/blog/2019/11/2019-11-07-marc_conference/</guid>
+      <guid>/blog/2019/11/2019-11-07-marc_conference/</guid>
       <description>Using Diagnostic Assessment Data to Advance Student Success: Results from the Diagnostic Assessment and Achievement of College Skills (DAACS) Project **Thursday, November 7th, 2:45pm to 3:30pm, University of Maryland, College Park, MD **
 More information here: https://education.umd.edu/research/centers/marc/workshops-and-conferences/2019-marc-conference</description>
     </item>
     
     <item>
       <title>Dr Bryer to be panelist for World Future Forum</title>
-      <link>https://daacs.net/blog/2019/04/2019-04-24-worldfutureforum/</link>
+      <link>/blog/2019/04/2019-04-24-worldfutureforum/</link>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://daacs.net/blog/2019/04/2019-04-24-worldfutureforum/</guid>
+      <guid>/blog/2019/04/2019-04-24-worldfutureforum/</guid>
       <description>Future Review Panel: Approaches to Studying Student Success in Higher Education Thursday, April 24, 11:25am to 12:10pm, Chicago
 This panel will highlight the work that is published in Future Review, our publication. Two of the first authors to publish in this journal will discuss their work on student success. The panel features both quantitative and qualitative research, and highlights the different ways of conceptualizing student success in higher education. Panelists will also discuss how their research can be used by practitioners in higher education, and why they chose Future Review as a venue for their research.</description>
     </item>
     
     <item>
       <title>American Educational Research Association</title>
-      <link>https://daacs.net/blog/2019/04/2019-04-05-aera/</link>
+      <link>/blog/2019/04/2019-04-05-aera/</link>
       <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://daacs.net/blog/2019/04/2019-04-05-aera/</guid>
+      <guid>/blog/2019/04/2019-04-05-aera/</guid>
       <description>Efficacy of the Diagnostic Assessment and Achievement of College Students on Multiple Success Indicators Authors: Jason Bryer; Angela M. Lui; Heidi L. Andrade; David W Franklin; Timothy J. Cleary
 Abstract The purpose of this study is to examine the effects and predictive power of the Diagnostic Assessment and Achievement of College Skills (DAACS) on student success. DAACS is a no-stakes, open-source, formative assessment tool designed to measure newly enrolled college students’ reading, writing, mathematics, and self-regulated learning (SRL) skills, and provide them with feedback and resources to enhance their functioning and success.</description>
     </item>
     
     <item>
       <title>National Council on Measurement in Education</title>
-      <link>https://daacs.net/blog/2019/04/2019-04-05-ncme/</link>
+      <link>/blog/2019/04/2019-04-05-ncme/</link>
       <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://daacs.net/blog/2019/04/2019-04-05-ncme/</guid>
+      <guid>/blog/2019/04/2019-04-05-ncme/</guid>
       <description>Relationship Between Intraclass Correlation and Percent Rater Agreement Authors: Jason Bryer; Guher Gorgun
 Abstract Inter-rater reliability (IRR) is a critical component of establishing the reliability of measures when more than one rater is necessary. There are numerous IRR statistics available to researchers including percent rater agreement, Cohen&amp;rsquo;s Kappa, and several types of intraclass correlations (ICC). Several methodologists suggest using ICC over percent rater agreement (Hallgren, 2012; Koo &amp;amp; Li, 2016; McGraw &amp;amp; Wong, 1996; Shrout &amp;amp; Fleiss, 1979).</description>
     </item>
     
     <item>
       <title>National Association of School Psychologists</title>
-      <link>https://daacs.net/blog/2019/02/2019-02-26-nasp/</link>
+      <link>/blog/2019/02/2019-02-26-nasp/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://daacs.net/blog/2019/02/2019-02-26-nasp/</guid>
+      <guid>/blog/2019/02/2019-02-26-nasp/</guid>
       <description>Improving Interventions: Development of the Implementer Perception of Intervention Survey Authors: Jacqueline Slemp, Devora Panish, Erica Pawlo, Timothy Cleary
 Abstract The Implementer Perception of Intervention Survey (IPIS) was developed to evaluate academic support personnel’s perceptions of the usability, feasibility, and importance of an academic intervention for developmental, entry-level college students. Principal axis factoring of the IPIS yielded a two-factor structure. The factors were labeled perceived acceptability and perceived usability. Practitioners can adapt the IPIS for use in a variety of academic interventions and educational contexts.</description>
     </item>
     
     <item>
       <title>SIG Writing Conference 2018</title>
-      <link>https://daacs.net/blog/2018/08/2018-08-30-sig-writing/</link>
+      <link>/blog/2018/08/2018-08-30-sig-writing/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://daacs.net/blog/2018/08/2018-08-30-sig-writing/</guid>
+      <guid>/blog/2018/08/2018-08-30-sig-writing/</guid>
       <description>Developing and Validating the DAACS Writing Assessment Authors: Heidi Andrade, Jason Bryer, and Robert Yagelski
 Abstract This paper describes an ongoing project in which on-demand writing is used as part of a diagnostic evaluation of newly admitted college students. The authors will present preliminary evidence of the validity and reliability of human and machine scored essays and the usefulness of the feedback provided to students on their writing and their self-regulated learning.</description>
     </item>
     
     <item>
       <title>Distance Teaching and Learning Conference</title>
-      <link>https://daacs.net/blog/2018/08/2018-08-09-dtandl/</link>
+      <link>/blog/2018/08/2018-08-09-dtandl/</link>
       <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://daacs.net/blog/2018/08/2018-08-09-dtandl/</guid>
+      <guid>/blog/2018/08/2018-08-09-dtandl/</guid>
       <description>Distance Teaching and Learning Conference Although the issues of placement exams impact most less selective or open enrollment colleges, the efficacy of DAACS as an alternative to traditional placement exams was conducted at two large online distance education colleges: Excelsior College and Western Governors University. DAACS is an assessment framework that provides students with a formative view of their skills in self-regulation, reading, writing, and math. For administrators, DAACS provides valuable information to inform personalized interventions and more accurate risk modeling.</description>
     </item>
     
     <item>
       <title>League for Innovation in the Community College</title>
-      <link>https://daacs.net/blog/2018/03/2018-03-18-league/</link>
+      <link>/blog/2018/03/2018-03-18-league/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://daacs.net/blog/2018/03/2018-03-18-league/</guid>
+      <guid>/blog/2018/03/2018-03-18-league/</guid>
       <description>Rethinking Placement Exams: Diagnostic Assessment and Achievement of College Skills Abstract This session will introduce a new open source formative assessment developed as an alternative to tradition placement exams that measures self-regulated learning, reading, mathematics, and writing. Results from a pilot study conducted at two large online institutions will be discussed.
 The Diagnostic Assessment and Achievement of College Skills (DAACS) addresses the issues with traditional placement exams and remediation programs by providing students with immediate, detailed, formative feedback.</description>
     </item>
     
     <item>
       <title>Northeast Education Research Association</title>
-      <link>https://daacs.net/blog/2017/10/2017-10-20-nera/</link>
+      <link>/blog/2017/10/2017-10-20-nera/</link>
       <pubDate>Fri, 20 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://daacs.net/blog/2017/10/2017-10-20-nera/</guid>
+      <guid>/blog/2017/10/2017-10-20-nera/</guid>
       <description>Development Of The Large Scale Diagnostic Assessments Of College Skills Authors: Jason Bryer, Excelsior College; Fusun Sahin, American Institutes for Research; Heidi Andrade, Angela Lui, Diana Akhmedjanova, &amp;amp; David Franklin, University at Albany, SUNY
 The Diagnostic Assessment and Achievement of College Skills (DAACS) is a technology-based, no-stakes diagnostic assessment system on academic and non-academic skills, with fast, actionable feedback. Development and piloting of these assessments at two online colleges is underway.</description>
     </item>

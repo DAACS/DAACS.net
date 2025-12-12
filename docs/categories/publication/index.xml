@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication on DAACS</title>
-    <link>https://daacs.net/categories/publication/</link>
+    <link>/categories/publication/</link>
     <description>Recent content in Publication on DAACS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://daacs.net/categories/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Validity Evidence of the Internal Structure of the DAACS Self-Regulated Learning Survey</title>
-      <link>https://daacs.net/blog/2019/04/2019-04-01-futurereview/</link>
+      <link>/blog/2019/04/2019-04-01-futurereview/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://daacs.net/blog/2019/04/2019-04-01-futurereview/</guid>
+      <guid>/blog/2019/04/2019-04-01-futurereview/</guid>
       <description>Validity Evidence of the Internal Structure of the DAACS Self-Regulated Learning Survey Authors: Angela M. Lui, David Franklin Jr., Diana Akhmedjanova, Guher Gorgun, Jason Bryer, Heidi L. Andrade, and Timothy Cleary
 Abstract The Diagnostic Assessment and Achievement of College Skills (DAACS) online system assesses newly enrolled college students’ skills in reading, writing, mathematics, and self-regulated learning, and provides individualized feedback and links to resources. The purpose of this study is to examine validity evidence regarding the internal structure of the DAACS Self-Regulated Learning (SRL) self-report survey.</description>
     </item>
