@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grant on DAACS</title>
-    <link>/tags/grant/</link>
+    <link>https://daacs.net/tags/grant/</link>
     <description>Recent content in Grant on DAACS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/grant/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://daacs.net/tags/grant/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DAACS Receives StAR Award from University at Albany</title>
-      <link>/blog/2019/05/2019-05-17-star_award/</link>
+      <link>https://daacs.net/blog/2019/05/2019-05-17-star_award/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/05/2019-05-17-star_award/</guid>
+      <guid>https://daacs.net/blog/2019/05/2019-05-17-star_award/</guid>
       <description>The DAACS team received a $48,500 Strategic Allocation of Resources (StAR) award from the University at Albany to implement DAACS at the University. Students enrolling beginning in 2020 will be an integral part the onboarding process. More information from the abstract:
  DAACS is a fully functioning, free, online suite of diagnostic assessments of college readiness, including reading, writing, mathematics, and self-regulated learning (https://daacs.net/). DAACS provides newly enrolled students with the information and resources needed to prepare for the academic rigors of college.</description>
     </item>

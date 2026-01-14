@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DAACS</title>
-    <link>/tags/</link>
+    <link>https://daacs.net/tags/</link>
     <description>Recent content in Tags on DAACS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://daacs.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Award</title>
-      <link>/tags/award/</link>
+      <link>https://daacs.net/tags/award/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/award/</guid>
+      <guid>https://daacs.net/tags/award/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conference</title>
-      <link>/tags/conference/</link>
+      <link>https://daacs.net/tags/conference/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/conference/</guid>
+      <guid>https://daacs.net/tags/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grant</title>
-      <link>/tags/grant/</link>
+      <link>https://daacs.net/tags/grant/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/grant/</guid>
+      <guid>https://daacs.net/tags/grant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>/tags/news/</link>
+      <link>https://daacs.net/tags/news/</link>
       <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/news/</guid>
+      <guid>https://daacs.net/tags/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publication</title>
-      <link>/tags/publication/</link>
+      <link>https://daacs.net/tags/publication/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/publication/</guid>
+      <guid>https://daacs.net/tags/publication/</guid>
       <description></description>
     </item>
     

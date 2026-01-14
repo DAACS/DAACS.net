@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on DAACS</title>
-    <link>/categories/</link>
+    <link>https://daacs.net/categories/</link>
     <description>Recent content in Categories on DAACS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://daacs.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Award</title>
-      <link>/categories/award/</link>
+      <link>https://daacs.net/categories/award/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/award/</guid>
+      <guid>https://daacs.net/categories/award/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conference</title>
-      <link>/categories/conference/</link>
+      <link>https://daacs.net/categories/conference/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/conference/</guid>
+      <guid>https://daacs.net/categories/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grant</title>
-      <link>/categories/grant/</link>
+      <link>https://daacs.net/categories/grant/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/grant/</guid>
+      <guid>https://daacs.net/categories/grant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>/categories/news/</link>
+      <link>https://daacs.net/categories/news/</link>
       <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/news/</guid>
+      <guid>https://daacs.net/categories/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publication</title>
-      <link>/categories/publication/</link>
+      <link>https://daacs.net/categories/publication/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/publication/</guid>
+      <guid>https://daacs.net/categories/publication/</guid>
       <description></description>
     </item>
     
