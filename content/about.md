@@ -118,7 +118,7 @@ DAACS has four major components: 1) Valid and reliable diagnostic assessments of
 <p style="text-align: center;"><a href="../img/DAACS-Framework.png"><img src="../img/DAACS-Framework.png" alt="DAACS Framework" height="250" border="0" /></a></p>
 
 
-## DAACS is a valid and reliable measure of college readiness
+## Evidence of Validity and Reliability
 
 DAACS assesses students in four key domains:
 
