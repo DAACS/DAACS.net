@@ -13,7 +13,7 @@ title: AERA SSRL SIG 2021 Summer Newsletter
 
 by Elie ChingYen Yu, Angela Lui, David Franklin 
 
-<center><img src = "../img/AERASSRL2021news.png" width = "60%" /></center>
+<center><img src = "/img/AERASSRL2021.png" width = "60%" /></center>
 
 The Diagnostic Assessment and Achievement of College Skills (DAACS; daacs.net) was a 5-year FIPSE grant-funded project (#P116F150077) led by principal investigators  Drs. Jason Bryer1, Heidi Andrade2, and Timothy Cleary3. For this project, we designed a suite of open source, online assessments and supports (both technological and social) to optimize student success in college. 
 
