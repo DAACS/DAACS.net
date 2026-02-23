@@ -12,7 +12,7 @@ title: DAACS at 2025 American Educational Research Association (AERA)
 
 # Identifying and Distinguishing College Readiness Profiles Across Academic Outcomes: The Importance of Integrating Academic Skills and Self-Regulated Learning 
 
-**Saturday, April 26th, Denver, CU**
+**Saturday, April 26th, Denver, CO**
 
 **Timothy J. Cleary, Jason Bryer, Elie ChingYen Yu **
 

@@ -122,13 +122,13 @@
   </url>
   
   <url>
-    <loc>https://daacs.net/tags/award/</loc>
+    <loc>https://daacs.net/categories/award/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daacs.net/categories/award/</loc>
+    <loc>https://daacs.net/tags/award/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -146,13 +146,13 @@
   </url>
   
   <url>
-    <loc>https://daacs.net/tags/conference/</loc>
+    <loc>https://daacs.net/categories/conference/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daacs.net/categories/conference/</loc>
+    <loc>https://daacs.net/tags/conference/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -168,20 +168,14 @@
   </url>
   
   <url>
-    <loc>https://daacs.net/tags/grant/</loc>
-    <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://daacs.net/categories/grant/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daacs.net/tags/news/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <loc>https://daacs.net/tags/grant/</loc>
+    <lastmod>2019-05-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -192,13 +186,19 @@
   </url>
   
   <url>
-    <loc>https://daacs.net/tags/publication/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <loc>https://daacs.net/tags/news/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://daacs.net/categories/publication/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daacs.net/tags/publication/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

@@ -20,9 +20,7 @@ categories:
 
 							American Educational Research Association (AERA)
 
-Bryer, et al. (2026, April). Free will as an obstacle to randomized controlled trials. Paper presentation at annual meeting of AERA. [Division D - Section 2: Division D - Measurement and Research Methodologies / Division D - Section 2: Statistical Theory and Quantitative Methods] 
-
-Abstract:
+Bryer et al. (2026, April). Free will as an obstacle to randomized controlled trials. 
 
 **College students’ responses to feedback from a diagnostic assessment of self-regulated learning** 
 
@@ -34,9 +32,8 @@ Abstract:This study explores college students’ cognitive, emotional, and behav
 
 							The National Council on Measurement in Education (NCME)
 
-Bryer, J. (2026, April). Bootstrapping to Determine the Optimal Number of Clusters. Eboard presentation at NCME. 
+Bryer J. (2026, April). Bootstrapping to Determine the Optimal Number of Clusters. 
 
-Abstract:
 
 **Students‘ Responses to Feedback on a Diagnostic Assessment of Self-Regulated Learning – A Theory of Action** 
 

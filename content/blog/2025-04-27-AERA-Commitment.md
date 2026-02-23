@@ -12,7 +12,7 @@ title: DAACS at 2025 American Educational Research Association (AERA)
 
 # Fortunately, talk is cheap: Commitment language is associated with academic success in college
 
-**Sunday, April 27th, Denver, CU**
+**Sunday, April 27th, Denver, CO**
 
 **Elie ChingYen Yu, Heidi L. Andrade, David W. Franklin, Angela M. Lui, Jason Bryer**
 

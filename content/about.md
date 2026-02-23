@@ -113,7 +113,7 @@ By capturing both academic and non-academic student data, DAACS has been shown t
 
 ## Components of the DAACS intervention
 
-DAACS has four major components: 1) Valid and reliable diagnostic assessments of students’ readiness for college in terms of self-regulated learning, reading, writing, and mathematics; 2) feedback, strategies, and links to open educational resources (OERs) that help students address deficiencies; 3) predictive models that identify students at risk, as well as the specific risk factors; and 4) information that enables academic advisors to help students address deficiencies identified by the assessments. 
+DAACS has four major components: 1) valid and reliable diagnostic assessments of students’ readiness for college in terms of self-regulated learning, reading, writing, and mathematics; 2) feedback, strategies, and links to open educational resources (OERs) that help students address deficiencies; 3) predictive models that identify students at risk, as well as the specific risk factors; and 4) information that enables academic advisors to help students address deficiencies identified by the assessments. 
 
 <p style="text-align: center;"><a href="../img/DAACS-Framework.png"><img src="../img/DAACS-Framework.png" alt="DAACS Framework" height="250" border="0" /></a></p>
 
