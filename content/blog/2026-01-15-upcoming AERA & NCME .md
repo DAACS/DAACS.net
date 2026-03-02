@@ -24,7 +24,7 @@ categories:
 
 *Saturday, April 11th,Los Angeles*
 
-Jason Bryer, Angela M. Lui,Heidi L. Andrade,Piet Wesling
+Jason Bryer, Angela M. Lui, Heidi L. Andrade, Piet Wesling
 
 Abstract: Randomized controlled trials (RCTs) are considered the gold standard for estimating causality. However, conducting research in educational settings using RCTs can result in unnatural intervention implementations due to participant agency — that is, their free will. This study explores the prevalence of RCTs in education using What Works Clearinghouse (WWC) data and examines challenges from implementing seven RCTs across five institutions. We found that RCTs were less likely than non-RCTs to report positive effects and faced issues of noncompliance. Propensity score analysis (PSA) was used to estimate treatment effects and revealed significant differences not evident in intent-to-treat analysis. These findings suggest that free will complicates RCT assumptions and that PSA may better capture the heterogeneous effects of educational interventions. 
 
