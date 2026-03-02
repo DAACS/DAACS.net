@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://daacs.net/blog/2026/01/2026-02-24-college-readiness-comparison/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://daacs.net/blog/2026/01/2026-01-16-predictive-writing-assessment/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url>
@@ -23,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://daacs.net/blog/2025/04/2025-04-26-ncme-reading-validity/</loc>
+    <lastmod>2025-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://daacs.net/blog/2025/03/2025-03-06-college-readiness-profile_ssrl-sig-news/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
   </url>
@@ -30,6 +40,11 @@
   <url>
     <loc>https://daacs.net/blog/2024/04/2024-04-14-aera-rtf/</loc>
     <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://daacs.net/blog/2023/04/2023-04-13-ncme-reliability-coefficients/</loc>
+    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://daacs.net/blog/2021/07/2025-03-06-college-readiness-profile_ssrl-sig-news-copy/</loc>
+    <loc>https://daacs.net/blog/2021/07/2025-03-06-daacs_ssrl-sig-news/</loc>
     <lastmod>2021-07-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -122,13 +137,13 @@
   </url>
   
   <url>
-    <loc>https://daacs.net/categories/award/</loc>
+    <loc>https://daacs.net/tags/award/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daacs.net/tags/award/</loc>
+    <loc>https://daacs.net/categories/award/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -146,13 +161,13 @@
   </url>
   
   <url>
-    <loc>https://daacs.net/categories/conference/</loc>
+    <loc>https://daacs.net/tags/conference/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daacs.net/tags/conference/</loc>
+    <loc>https://daacs.net/categories/conference/</loc>
     <lastmod>2026-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -168,20 +183,14 @@
   </url>
   
   <url>
-    <loc>https://daacs.net/categories/grant/</loc>
-    <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://daacs.net/tags/grant/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daacs.net/categories/news/</loc>
-    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
+    <loc>https://daacs.net/categories/grant/</loc>
+    <lastmod>2019-05-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -192,13 +201,19 @@
   </url>
   
   <url>
-    <loc>https://daacs.net/categories/publication/</loc>
-    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <loc>https://daacs.net/categories/news/</loc>
+    <lastmod>2025-03-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://daacs.net/tags/publication/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://daacs.net/categories/publication/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
