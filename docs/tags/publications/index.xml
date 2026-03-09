@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on DAACS</title>
+    <link>https://daacs.net/tags/publications/</link>
+    <description>Recent content in Publications on DAACS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jan 2026 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://daacs.net/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Comparison of College Readiness among Adult and Traditional-Age College Students</title>
+      <link>https://daacs.net/blog/2026/01/2026-02-24-college-readiness-comparison/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://daacs.net/blog/2026/01/2026-02-24-college-readiness-comparison/</guid>
+      <description>A Comparison of College Readiness among Adult and Traditional-Age College Students Author: Oxana Rosca
+Abstract This dissertation provides a comprehensive validity investigation of the DAACS Reading and Mathematics assessments to ensure that college readiness comparisons between adult learners (age 24+) and traditional-age students rest on psychometrically sound measurement. Accordingly, the dissertation emphasized the collection of internal structure validity evidence for DAACS mathematics and reading assessments.
+The internal structure of the DAACS Reading Assessment was examined using confirmatory factor analysis and bifactor twoparameter logistic (2PL) item response theory (IRT) models to distinguish a general reading comprehension factor from passagespecific residual factors.</description>
+    </item>
+    
+    <item>
+      <title>Predictive validity evidence for a no-stakes, untimed, machine-scored diagnostic writing assessment</title>
+      <link>https://daacs.net/blog/2026/01/2026-01-16-predictive-writing-assessment/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://daacs.net/blog/2026/01/2026-01-16-predictive-writing-assessment/</guid>
+      <description>Predictive validity evidence for a no-stakes, untimed, machine-scored diagnostic writing assessment Authors: Elie ChingYen Yu, Oxana Rosca, Heidi L. Andrade, Angela M. Lui, and Jason Bryer
+Abstract The Diagnostic Assessment and Achievement of College Skills (DAACS) is a free, online system for assessing and promoting newly enrolled college students’ readiness in reading, writing, mathematics, and self-regulated learning. The system provides instant, personalized feedback and resources to promote success in college.</description>
+    </item>
+    
+    <item>
+      <title>Validity Evidence of the Internal Structure of the DAACS Self-Regulated Learning Survey</title>
+      <link>https://daacs.net/blog/2019/04/2019-04-01-futurereview/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daacs.net/blog/2019/04/2019-04-01-futurereview/</guid>
+      <description>Validity Evidence of the Internal Structure of the DAACS Self-Regulated Learning Survey Authors: Angela M. Lui, David Franklin Jr., Diana Akhmedjanova, Guher Gorgun, Jason Bryer, Heidi L. Andrade, and Timothy Cleary
+Abstract The Diagnostic Assessment and Achievement of College Skills (DAACS) online system assesses newly enrolled college students’ skills in reading, writing, mathematics, and self-regulated learning, and provides individualized feedback and links to resources. The purpose of this study is to examine validity evidence regarding the internal structure of the DAACS Self-Regulated Learning (SRL) self-report survey.</description>
+    </item>
+    
+  </channel>
+</rss>
