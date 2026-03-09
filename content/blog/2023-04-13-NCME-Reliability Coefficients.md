@@ -2,11 +2,11 @@
 author: DAACS
 banner: img/2023NCME.png
 categories:
-- conference
+- conferences
 date: "2023-04-13"
 publishDate: "2025-04-26"
 tags:
-- conference
+- conferences
 title: DAACS at 2023 National Council on Measurement in Education (NCME)
 ---
 

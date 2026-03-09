@@ -2,11 +2,11 @@
 author: DAACS
 banner: img/umd_logo.svg
 categories:
-- conference
+- conferences
 date: "2019-11-07"
 publishDate: "2019-11-01"
 tags:
-- conference
+- conferences
 title: DAACS at the Maryland Assessment Research Center Conference
 ---
 

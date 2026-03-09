@@ -2,11 +2,11 @@
 author: DAACS
 banner: img/OR_dissertation.png
 categories:
-- publication
+- publications
 date: "2026-01-16"
 publishDate: "2026-01-16"
 tags:
-- publication
+- publications
 title: A Comparison of College Readiness among Adult and Traditional-Age College Students 
 ---
 

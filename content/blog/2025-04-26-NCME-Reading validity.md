@@ -2,11 +2,11 @@
 author: DAACS
 banner: img/2025NCME.png
 categories:
-- conference
+- conferences
 date: "2025-04-26"
 publishDate: "2025-04-26"
 tags:
-- conference
+- conferences
 title: DAACS at 2025 National Council on Measurement in Education (NCME)
 ---
 

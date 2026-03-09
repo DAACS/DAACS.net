@@ -2,13 +2,13 @@
 author: DAACS
 banner: /img/partners/UAlbany.png
 categories:
-- award
-- grant
+- awards
+- grants
 date: "2019-05-17"
 publishDate: "2019-05-17"
 tags:
-- award
-- grant
+- awards
+- grants
 title: DAACS Receives StAR Award from University at Albany
 ---
 

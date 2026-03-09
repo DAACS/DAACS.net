@@ -8,10 +8,10 @@ output:
     df_print: paged
 publishDate: "2026-01-15"
 tags:
-- conference
+- conferences
 banner: img/2026AERA.jpg
 categories:
-- conference
+- conferences
 ---
 
 # We look forward to seeing you at our upcoming presentations

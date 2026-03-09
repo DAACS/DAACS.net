@@ -2,11 +2,11 @@
 author: DAACS
 banner: img/Future-Review.jpg
 categories:
-- publication
+- publications
 date: "2019-04-01"
 publishDate: "2019-04-01"
 tags:
-- publication
+- publications
 title: Validity Evidence of the Internal Structure of the DAACS Self-Regulated Learning Survey
 ---
 

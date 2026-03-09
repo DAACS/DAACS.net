@@ -2,11 +2,11 @@
 author: DAACS
 banner: img/2022APA.png
 categories:
-- conference
+- conferences
 date: "2022-08-06"
 publishDate: "2022-08-06"
 tags:
-- conference
+- conferences
 title: DAACS at 2022 American Psychological Association (APA)
 ---
 

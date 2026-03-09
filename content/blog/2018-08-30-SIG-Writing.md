@@ -2,10 +2,10 @@
 author: DAACS
 banner: img/sig-writing.png
 categories:
-- conference
+- conferences
 date: "2018-08-30"
 tags:
-- conference
+- conferences
 title: SIG Writing Conference 2018
 ---
 

@@ -2,11 +2,11 @@
 author: DAACS
 banner: img/OLC_Accelerate.png
 categories:
-- conference
+- conferences
 date: "2019-11-20"
 publishDate: "2019-11-01"
 tags:
-- conference
+- conferences
 title: DAACS at OLC Accelerate
 ---
 

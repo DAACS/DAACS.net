@@ -2,11 +2,11 @@
 author: DAACS
 banner: img/2025AERA.png
 categories:
-- conference
+- conferences
 date: "2025-04-27"
 publishDate: "2025-04-27"
 tags:
-- conference
+- conferences
 title: DAACS at 2025 American Educational Research Association (AERA)
 ---
 
