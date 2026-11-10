@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on DAACS</title>
-		<link>https://daacs.net/categories/</link>
+		<link>https://daacs.net/v2/categories/</link>
 		<description>Recent content in Categories on DAACS</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://daacs.net/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://daacs.net/v2/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Conference</title>
-				<link>https://daacs.net/categories/conference/</link>
+				<link>https://daacs.net/v2/categories/conference/</link>
 				<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://daacs.net/categories/conference/</guid>
+				<guid>https://daacs.net/v2/categories/conference/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>News</title>
-				<link>https://daacs.net/categories/news/</link>
+				<link>https://daacs.net/v2/categories/news/</link>
 				<pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-				<guid>https://daacs.net/categories/news/</guid>
+				<guid>https://daacs.net/v2/categories/news/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Publications</title>
-				<link>https://daacs.net/categories/publications/</link>
+				<link>https://daacs.net/v2/categories/publications/</link>
 				<pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://daacs.net/categories/publications/</guid>
+				<guid>https://daacs.net/v2/categories/publications/</guid>
 				<description></description>
 			</item>
 	</channel>

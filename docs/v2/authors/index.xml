@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Authors on DAACS</title>
-		<link>https://daacs.net/authors/</link>
+		<link>https://daacs.net/v2/authors/</link>
 		<description>Recent content in Authors on DAACS</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -10,6 +10,22 @@
 		
 		
 		
-			<atom:link href="https://daacs.net/authors/index.xml" rel="self" type="application/rss+xml" />
+			<lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://daacs.net/v2/authors/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DAACS</title>
+				<link>https://daacs.net/v2/authors/daacs/</link>
+				<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+				<guid>https://daacs.net/v2/authors/daacs/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Jason Bryer</title>
+				<link>https://daacs.net/v2/authors/jason-bryer/</link>
+				<pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+				<guid>https://daacs.net/v2/authors/jason-bryer/</guid>
+				<description></description>
+			</item>
 	</channel>
 </rss>

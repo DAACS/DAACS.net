@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Conference on DAACS</title>
-		<link>https://daacs.net/tags/conference/</link>
+		<link>https://daacs.net/v2/tags/conference/</link>
 		<description>Recent content in Conference on DAACS</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,13 +12,13 @@
 		
 			<lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://daacs.net/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://daacs.net/v2/tags/conference/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>DAACS at 2026 AERA</title>
-				<link>https://daacs.net/blog/2026/04/01/2026-04-01-aera/</link>
+				<link>https://daacs.net/v2/blog/2026/04/01/2026-04-01-aera/</link>
 				<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-				<guid>https://daacs.net/blog/2026/04/01/2026-04-01-aera/</guid>
-				<description>&lt;p&gt;The DAACS team will be presenting at AERA and NCME&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.aera.net/AERA2026&#34;&gt;AERA website&lt;/a&gt;&lt;/p&gt;</description>
+				<guid>https://daacs.net/v2/blog/2026/04/01/2026-04-01-aera/</guid>
+				<description>The DAACS team will be presenting at AERA and NCME</description>
 			</item>
 	</channel>
 </rss>
