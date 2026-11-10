@@ -3,13 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://daacs.net/v2/authors/</loc>
-    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daacs.net/v2/categories/award/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daacs.net/v2/tags/award/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://daacs.net/v2/blog/</loc>
-    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://daacs.net/v2/categories/</loc>
-    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daacs.net/v2/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daacs.net/v2/authors/daacs/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daacs.net/v2/blog/2026/08/01/2026-08-01-daacs_awarded_top_readiness_assessment_platform/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daacs.net/v2/categories/news/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daacs.net/v2/tags/news/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daacs.net/v2/categories/publication/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daacs.net/v2/tags/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://daacs.net/v2/categories/conference/</loc>
     <lastmod>2026-04-01T00:00:00+00:00</lastmod>
@@ -17,25 +44,10 @@
     <loc>https://daacs.net/v2/tags/conference/</loc>
     <lastmod>2026-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://daacs.net/v2/</loc>
-    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://daacs.net/v2/authors/daacs/</loc>
-    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://daacs.net/v2/blog/2026/04/01/2026-04-01-aera/</loc>
     <lastmod>2026-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://daacs.net/v2/tags/</loc>
-    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://daacs.net/v2/authors/jason-bryer/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://daacs.net/v2/categories/news/</loc>
-    <lastmod>2026-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://daacs.net/v2/tags/news/</loc>
     <lastmod>2026-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://daacs.net/v2/blog/2026/03/10/2026-03-10-special_k/</loc>
