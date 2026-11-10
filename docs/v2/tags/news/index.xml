@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>News on DAACS</title>
+		<link>https://daacs.net/tags/news/</link>
+		<description>Recent content in News on DAACS</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://daacs.net/tags/news/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Special k - The Science (or Art) of Determining the Optimal k in Cluster Analysis</title>
+				<link>https://daacs.net/blog/2026/03/10/2026-03-10-special_k/</link>
+				<pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+				<guid>https://daacs.net/blog/2026/03/10/2026-03-10-special_k/</guid>
+				<description>&lt;h1 id=&#34;dr-bryer-discusses-daacs-on-special-k-the-science-or-art-of-determining-the-optimal-k-in-cluster-analysis&#34;&gt;Dr. Bryer Discusses DAACS on Special k The Science (or Art) of Determining the Optimal k in Cluster Analysis&lt;/h1&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://nyhackr.org&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;Source: &lt;a href=&#34;https://nyhackr.org&#34;&gt;New York Open Statistical Programming Meetup 2026&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

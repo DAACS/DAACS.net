@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blog on DAACS</title>
+		<link>https://daacs.net/blog/</link>
+		<description>Recent content in Blog on DAACS</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://daacs.net/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>DAACS at 2026 AERA</title>
+				<link>https://daacs.net/blog/2026/04/01/2026-04-01-aera/</link>
+				<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+				<guid>https://daacs.net/blog/2026/04/01/2026-04-01-aera/</guid>
+				<description>&lt;p&gt;The DAACS team will be presenting at AERA and NCME&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.aera.net/AERA2026&#34;&gt;AERA website&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Special k - The Science (or Art) of Determining the Optimal k in Cluster Analysis</title>
+				<link>https://daacs.net/blog/2026/03/10/2026-03-10-special_k/</link>
+				<pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+				<guid>https://daacs.net/blog/2026/03/10/2026-03-10-special_k/</guid>
+				<description>&lt;h1 id=&#34;dr-bryer-discusses-daacs-on-special-k-the-science-or-art-of-determining-the-optimal-k-in-cluster-analysis&#34;&gt;Dr. Bryer Discusses DAACS on Special k The Science (or Art) of Determining the Optimal k in Cluster Analysis&lt;/h1&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://nyhackr.org&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;Source: &lt;a href=&#34;https://nyhackr.org&#34;&gt;New York Open Statistical Programming Meetup 2026&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>A Comparison of College Readiness among Adult and Traditional-Age College Students</title>
+				<link>https://daacs.net/blog/2026/01/16/2026-02-24-college-readiness-comparison/</link>
+				<pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://daacs.net/blog/2026/01/16/2026-02-24-college-readiness-comparison/</guid>
+				<description>&lt;h1 id=&#34;a-comparison-of-college-readiness-among-adult-and-traditional-age-college-students&#34;&gt;A Comparison of College Readiness among Adult and Traditional-Age College Students&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Author:&lt;/strong&gt; Oxana Rosca&lt;/p&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;This dissertation provides a comprehensive validity investigation of the DAACS Reading and Mathematics assessments to ensure that college readiness comparisons between adult learners (age 24+) and traditional-age students rest on psychometrically sound measurement. Accordingly, the dissertation emphasized the collection of internal structure validity evidence for DAACS mathematics and reading assessments.&lt;/p&gt;&#xA;&lt;p&gt;The internal structure of the DAACS Reading Assessment was examined using confirmatory factor analysis and bifactor twoparameter logistic (2PL) item response theory (IRT) models to distinguish a general reading comprehension factor from passagespecific residual factors. Model fit indices, local dependence diagnostics, and bifactor indices such as explained common variance (ECV) provided strong evidence for a dominant general factor underlying reading performance, supporting the interpretability of unidimensional IRTbased scores. In the Mathematics Assessment, unidimensional 2PL IRT models were estimated across adaptive multistage item sets. Item discrimination and difficulty parameters, standard errors, and local dependence statistics indicated strong item functioning for the vast majority of items. Across both assessments, the resulting IRT models supported score interpretations grounded in coherent latent constructs of reading and mathematical readiness.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Predictive validity evidence for a no-stakes, untimed, machine-scored diagnostic writing assessment</title>
+				<link>https://daacs.net/blog/2026/01/16/2026-01-16-predictive-writing-assessment/</link>
+				<pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://daacs.net/blog/2026/01/16/2026-01-16-predictive-writing-assessment/</guid>
+				<description>&lt;h1 id=&#34;predictive-validity-evidence-for-a-no-stakes-untimed-machine-scored-diagnostic-writing-assessment&#34;&gt;Predictive validity evidence for a no-stakes, untimed, machine-scored diagnostic writing assessment&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Elie ChingYen Yu, Oxana Rosca, Heidi L. Andrade, Angela M. Lui, and Jason Bryer&lt;/p&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;The Diagnostic Assessment and Achievement of College Skills (DAACS) is a free, online system for assessing and promoting newly enrolled college students’ readiness in reading, writing, mathematics, and self-regulated learning. The system provides instant, personalized feedback and resources to promote success in college. In contrast with pre-entry, high-stakes, time-limited standardized testing, DAACS is a diagnostic assessment allowing unlimited time to write about a personally relevant, information-based topic in a free, online, no-stakes context. In search of predictive validity evidence, this study examines whether writing assessment scores predict students’ future performance in college academic writing courses. Data from 2719 non-traditional students at an online university support the hypothesis that writing assessment scores predict future performance. The study contributes to the validity evidence for the interpretations of students’ DAACS writing assessment results. In addition, it indicates that a writing assessment does not have to be expensive, high-stakes, proctored, or timed to be useful.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
