@@ -4,6 +4,7 @@ keywords:
 - email
 - phone
 title: Contact
+type: page
 ---
 
 
@@ -14,12 +15,12 @@ title: Contact
 
 <h1>Have questions or want to learn more about DAACS?</h1>
 
-<p>We are always interested in hearing from students, researchers, and administrators. Are you interested in using DAACS at your institituion? Do you want to incorporate DAACS into your research? Complete the form below and someone from the DAACS research team will get back to you soon.</p>
+<p>Please use the contact form below to send a message to the DAACS team.</p>
 
 <div class="heading"><h3>Contact Form</h3></div>
 
 <div id="contact-message"></div>
-<form method="POST" action="https://formspree.io/feedback@daacs.net">
+<form method="POST" action="https://formspree.io/admin@daacs.net">
 <div class="row">
 <div class="col-sm-6">
 <div class="form-group">

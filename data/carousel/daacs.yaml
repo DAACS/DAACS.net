@@ -2,10 +2,11 @@ weight: 1
 title: ""
 description: >
   <!-- img src="img/DAACS Logo-Inverse.png" height="128" alt="DAACS Logo"/ -->
+  <p style="color:#E3AF40;"><strong>Rethinking College Readiness</strong></p>
   <p style="text-transform: none;">The Diagnostic Assessment and Achievement of College Skills (DAACS) is a 
   suite of technological and social supports to optimize student learning. DAACS 
   provides personalized feedback about students’ strengths and weaknesses in 
   terms of key academic and self-regulated learning skills, linking them to the 
   resources to help them be successful students.</p>
-  <br /><a href="https://my.daacs.net/dashboard" target="daacswindow" class="btn btn-primary btn-large" role="button">Take DAACS</a>
+  <br /><a href="https://my.daacs.net/dashboard" target="daacswindow" class="btn btn-primary btn-large" role="button">Try DAACS</a>
 image: "img/carousel/template-daacs.png"

@@ -1,16 +1,14 @@
----
-author: DAACS
-banner: img/OR_dissertation.png
-categories:
-- publications
-date: "2026-01-16"
-publishDate: "2026-01-16"
-tags:
-- publications
-title: A Comparison of College Readiness among Adult and Traditional-Age College Students 
----
++++
+title = "A Comparison of College Readiness among Adult and Traditional-Age College Students"
+date = "2026-01-16"
+tags = ["publications"]
+categories = ["publications"]
+banner = "img/OR_dissertation.png"
+authors = ["DAACS"]
+summary = "This dissertation provides a comprehensive validity investigation of the DAACS Reading and Mathematics assessments to ensure that college readiness comparisons between adult learners (age 24+) and traditional-age students rest on psychometrically sound measurement. Accordingly, the dissertation emphasized the collection of internal structure validity evidence for DAACS mathematics and reading assessments. "
++++
 
-# A Comparison of College Readiness among Adult and Traditional-Age College Students 
+A Comparison of College Readiness among Adult and Traditional-Age College Students 
 
 **Author:** Oxana Rosca
 
