@@ -1,4 +1,4 @@
-baseurl: https://daacs.net/v2/
+baseurl: https://daacs.net/
 publishDir: docs
 title: DAACS
 theme: hugo-universal-theme
