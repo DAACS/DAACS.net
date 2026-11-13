@@ -185,43 +185,45 @@ Completing all four DAACS assessment typically takes 90-120 minutes, often as pa
 
 ## Publications
 
-<!-- div style=".hanging-indent { padding-left: 2em;text-indent: -2em;};" -->
-
-Bryer, J., Akhmedjanova, D., Andrade, H. L., & Lui, A. M. (2021). The use of predictive modeling for assessing college readiness. In H. Jiao & R. Lissitz (Eds.), Enhancing effective instruction and learning using assessment data: Theory and practice (pp. 83 – 108). Emerald Publishing Limited.
-
-Bryer, J., Andrade, H. L., Cleary, T. J., Lui, A. M., Franklin, D. W., & Akhmedjanova, D. (2025). The effects and predictive power of the Diagnostic Assessment and Achievement of College Success intervention on academic success indicators. Educational Technology Research and Development, 73, 3067–3104. https://doi.org/10.1007/s11423-025-10547-1
-
-Bryer, J., Andrade, H. L., Cleary, T. J., Lui, A. M., Yu, E. C. Y., & Franklin, D. W. (2026). The effects of the Diagnostic Assessment and Achievement of College Success intervention on freshman GPA and retention [Manuscript submitted for publication].
-
-Cleary, T. J., Bryer, J. M., & Andrade, H. L. (2023). Using the Diagnostic Assessment and Achievement of College Success to promote SRL skills among entry-level college students: Challenges and recommendations. New Directions for Teaching and Learning, 2023(4), 73–79. https://doi.org/10.1002/tl.20551
+<div style="padding-left: 2em; text-indent: -2em;">
 
 Cleary, T. J., Yu, E. C. Y., & Bryer, J. (in revision). Examining college readiness profiles among students enrolling in an online college: The importance of leveraging academic skills and self-regulated learning data [Manuscript in revision at Journal of Postsecondary Student Success].
 
-Cleary, T. J., Yu, E. C. Y., & Bryer, J. (2025). Examining college readiness profiles among students enrolling in an online college: The importance of leveraging academic skills and self-regulated learning data. Studying and Self-Regulated Learning American Educational Research Special Interest Group Newsletter.
+Bryer, J., Andrade, H. L., Cleary, T. J., Lui, A. M., Yu, E. C. Y., & Franklin, D. W. (2026). The effects of the Diagnostic Assessment and Achievement of College Success intervention on freshman GPA and retention [Manuscript submitted for publication].
 
 Franklin, D. W., Andrade, H. L., Bryer, J, & Lui, A. M. (2026), Grit, mindset, and academic outcomes among nontraditional online college students. Journal of Research Initiatives, 9(3), 1-33. https://digitalcommons.uncfsu.edu/jri/vol9/iss3/8
 
-Franklin, D. W., Akhmedjanova, D., Lui, A. M., Andrade, H. L., Cleary, T. J., & Bryer, J. (2019, Fall). SRL Lab announcement. Studying and Self-Regulated Learning American Educational Research Special Interest Group Fall Newsletter, 7. https://ssrlsite.files.wordpress.com/2019/12/newsletter_ssrl-sig_fall-2019.pdf
+Rosca, O. (2026). Choosing internal-consistency coefficients under dimensionality and model violations: An empirical workflow using SRL survey scores [Manuscript submitted for publication]. 
 
-Franklin, D. W., Bryer, J., Andrade, H. L., & Lui, A. M. (2021). Commentary: Design tests with a learning purpose. Educational Measurement: Issues and Practice. https://doi.org/10.1111/emip.12457
+Yu, E. C. Y., Lui, A. M., Andrade, H., Akhmedjanova, D., Franklin, D., & Bryer, J. (2026). College students’ responses to automated feedback on self-regulated learning. Educational Assessment. https://doi.org/10.1080/10627197.2026.2727839
+
+Bryer, J., Andrade, H. L., Cleary, T. J., Lui, A. M., Franklin, D. W., & Akhmedjanova, D. (2025). The effects and predictive power of the Diagnostic Assessment and Achievement of College Success intervention on academic success indicators. Educational Technology Research and Development, 73, 3067–3104. https://doi.org/10.1007/s11423-025-10547-1
+
+Cleary, T. J., Yu, E. C. Y., & Bryer, J. (2025). Examining college readiness profiles among students enrolling in an online college: The importance of leveraging academic skills and self-regulated learning data. Studying and Self-Regulated Learning American Educational Research Special Interest Group Newsletter.
+
+Yu, E. C. Y., Rosca, O., Andrade, H. L., Lui, A. M., & Bryer, J. (2025). Predictive validity evidence for a no-stakes, untimed, machine-scored diagnostic writing assessment. Assessing Writing, 66, Article 100978. https://doi.org/10.1016/j.asw.2025.100978
+
+Cleary, T. J., Bryer, J. M., & Andrade, H. L. (2023). Using the Diagnostic Assessment and Achievement of College Success to promote SRL skills among entry-level college students: Challenges and recommendations. New Directions for Teaching and Learning, 2023(4), 73–79. https://doi.org/10.1002/tl.20551
 
 Franklin, D. W., Jr., Bryer, J., Lui, A. M., Andrade, H. L., & Akhmedjanova, D. (2022). The effects of nudges on students’ use of the Diagnostic Assessment and Achievement of College Skills. Online Learning, 26(2), 218–240. https://doi.org/10.24059/olj.v26i2.2674
 
-Lui, A. M., Franklin, D. W., Akhmedjanova, D., Gorgun, G., Bryer, J., Andrade, H. L., & Cleary, T. J. (2018). Validity evidence of the internal structure of the DAACS self-regulated learning survey. Future Review: International Journal of Transition, College, and Career Success, 1(1), 1–18. http://www.futureinstitute.us/wp-content/uploads/2019/03/Future-Review-Online-Article-1.1.pdf
+Bryer, J., Akhmedjanova, D., Andrade, H. L., & Lui, A. M. (2021). The use of predictive modeling for assessing college readiness. In H. Jiao & R. Lissitz (Eds.), Enhancing effective instruction and learning using assessment data: Theory and practice (pp. 83 – 108). Emerald Publishing Limited.
 
-Rosca, O. (2026). Choosing internal-consistency coefficients under dimensionality and model violations: An empirical workflow using SRL survey scores [Manuscript submitted for publication]. 
+Franklin, D. W., Bryer, J., Andrade, H. L., & Lui, A. M. (2021). Commentary: Design tests with a learning purpose. Educational Measurement: Issues and Practice. https://doi.org/10.1111/emip.12457
+
+Franklin, D. W., Akhmedjanova, D., Lui, A. M., Andrade, H. L., Cleary, T. J., & Bryer, J. (2019, Fall). SRL Lab announcement. Studying and Self-Regulated Learning American Educational Research Special Interest Group Fall Newsletter, 7. https://ssrlsite.files.wordpress.com/2019/12/newsletter_ssrl-sig_fall-2019.pdf
+
+Lui, A. M., Franklin, D. W., Akhmedjanova, D., Gorgun, G., Bryer, J., Andrade, H. L., & Cleary, T. J. (2018). Validity evidence of the internal structure of the DAACS self-regulated learning survey. Future Review: International Journal of Transition, College, and Career Success, 1(1), 1–18. http://www.futureinstitute.us/wp-content/uploads/2019/03/Future-Review-Online-Article-1.1.pdf
 
 Yu, E. C. Y., Lui, A. M., & Akhmedjanova, D. (2021). The Diagnostic Assessment and Achievement of College Skills: A powerful tool for regulation of learning. In A. Reis, J. Barroso, J. B. Lopes, T. Mikropoulos, & C. Fan (Eds.), Technology and innovation in teaching, learning, and education (pp. 193–202). Springer. https://doi.org/10.1007/978-3-030-73988-1
 
 Yu, E. C. Y., Lui, A. M., & Franklin, D. W. (2021, Summer). Using DAACS to foster students’ development of SRL strategies and practices. Studying and Self-Regulated Learning American Educational Research Special Interest Group Summer Newsletter, 13–14. https://ssrlsig.org/2021/08/23/ssrl-sig-2021-summer-newsletter/
 
-Yu, E. C. Y., Lui, A. M., Andrade, H., Akhmedjanova, D., Franklin, D., & Bryer, J. (2026). College students’ responses to automated feedback on self-regulated learning. Educational Assessment. https://doi.org/10.1080/10627197.2026.2727839
-
-Yu, E. C. Y., Rosca, O., Andrade, H. L., Lui, A. M., & Bryer, J. (2025). Predictive validity evidence for a no-stakes, untimed, machine-scored diagnostic writing assessment. Assessing Writing, 66, Article 100978. https://doi.org/10.1016/j.asw.2025.100978
-
-<--/div-->
+</div>
 
 ## Presentations
+
+<div style="padding-left: 2em; text-indent: -2em;">
 
 Akhmedjanova, D., Lui, A. M., Andrade, H. L., & Bryer, J. (2019, April 4–8). Validity and reliability of the DAACS writing assessment [Paper presentation]. Annual Meeting of the National Council on Measurement in Education, Toronto, ON, Canada.
 
@@ -313,4 +315,4 @@ Yu, E. C. Y., Lui, A. M., Andrade, H. L., Franklin, D. W., Akhmedjanova, D., & B
 
 Yu, E. C. Y., Rosca, O., & Andrade, H. L. (2022, August 4–6). Predictive validity evidence for machine-scored diagnostic writing assessment [Poster presentation]. APA 2022 Convention, Minneapolis, MN, United States.  https://doi.org/10.13140/RG.2.2.33240.98566/2
 
-
+</div>

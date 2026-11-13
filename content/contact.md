@@ -20,7 +20,7 @@ type: page
 <div class="heading"><h3>Contact Form</h3></div>
 
 <div id="contact-message"></div>
-<form method="POST" action="https://formspree.io/admin@daacs.net">
+<form method="POST" action="https://formspree.io/f/xjywvepj">
 <div class="row">
 <div class="col-sm-6">
 <div class="form-group">
